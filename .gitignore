@@ -4,6 +4,9 @@ weltmeister/
 impact/
 tools/
 
+# Uncompressed audio
+*.wav
+
 # Compiled source #
 ###################
 *.com
