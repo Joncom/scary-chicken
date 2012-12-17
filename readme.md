@@ -13,7 +13,7 @@ To-Do:
 
 	Game-start-instructions?
 
-	Polish.
+	Polish. (level)?
 
 	Disable debug mode.
 
