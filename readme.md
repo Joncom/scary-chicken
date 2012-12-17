@@ -9,6 +9,8 @@ To-Do:
 
 	Shrink down audio?
 
+	Shrink down images?
+
 	Add chicken animations?
 
 	Game-start-instructions?
