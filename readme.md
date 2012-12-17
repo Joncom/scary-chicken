@@ -13,8 +13,6 @@ To-Do:
 
 	Polish. (level)?
 
-	Disable debug mode.
-
 	Reenable music.
 
 	Bake game.
