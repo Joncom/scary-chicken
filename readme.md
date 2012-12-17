@@ -7,6 +7,8 @@ To-Do:
 
 	Fix teleport glitch.
 
+	Add chicken animations?
+
 	Game-start-instructions?
 
 	Polish.
