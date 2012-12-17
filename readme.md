@@ -15,6 +15,8 @@ To-Do:
 
 	Disable debug mode.
 
+	Reenable music.
+
 	Bake game.
 
 	Submit game.
