@@ -3,4 +3,12 @@ http://scratch.mit.edu/projects/Desto/2089614
 
 To-Do:
 
-	Game-start-instructions
+	Game-start-instructions?
+
+	Polish.
+
+	Disable debug mode.
+
+	Bake game.
+
+	Submit game.
