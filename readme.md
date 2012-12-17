@@ -3,8 +3,6 @@ http://scratch.mit.edu/projects/Desto/2089614
 
 To-Do:
 
-	Sounds: Fox-jump, Egg-eat, Chicken-cluck
-
 	Game-over-screen
 
 	You-win-screen
