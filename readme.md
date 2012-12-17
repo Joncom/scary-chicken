@@ -7,8 +7,6 @@ To-Do:
 
 	Shrink down images?
 
-	Add chicken animations?
-
 	Game-start-instructions?
 
 	Polish. (level)?
