@@ -3,8 +3,6 @@ http://scratch.mit.edu/projects/Desto/2089614
 
 To-Do:
 
-	Fix teleport glitch.
-
 	Shrink down audio?
 
 	Shrink down images?
