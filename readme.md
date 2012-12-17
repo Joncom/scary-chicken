@@ -7,6 +7,8 @@ To-Do:
 
 	Fix teleport glitch.
 
+	Shrink down audio?
+
 	Add chicken animations?
 
 	Game-start-instructions?
