@@ -11,8 +11,6 @@ To-Do:
 
 	Polish. (level)?
 
-	Reenable music.
-
 	Bake game.
 
 	Submit game.
