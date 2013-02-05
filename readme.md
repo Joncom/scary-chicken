@@ -14,3 +14,7 @@ To-Do:
 	Bake game.
 
 	Submit game.
+	
+	Consider making iOS version where tapping the right
+	side of the screen jumps and runs right. Tapping the
+	left side of the screen jumps and runs left.
