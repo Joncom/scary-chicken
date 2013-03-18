@@ -1,20 +1,10 @@
-The Fox Sprite belongs to Desto. All copyright belongs to him.
+Playable demo here: http://www.commins.ca/ld25/
+
+The Fox Sprite belongs to Desto. Copyright belongs to him.
 http://scratch.mit.edu/projects/Desto/2089614
 
-To-Do:
+## To Do ##
 
-	Shrink down audio?
-
-	Shrink down images?
-
-	Game-start-instructions?
-
-	Polish. (level)?
-
-	Bake game.
-
-	Submit game.
-	
-	Consider making iOS version where tapping the right
-	side of the screen jumps and runs right. Tapping the
-	left side of the screen jumps and runs left.
+- Shrink down audio?
+- Shrink down images?
+- Add mobile touch support.
